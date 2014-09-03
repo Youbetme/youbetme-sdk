@@ -7,6 +7,7 @@
 //-----------------------------------------------------------------------------
 using System.Collections.Generic;
 using System.Linq;
+using Youbetme.Helpers;
 
 #endregion
 #region Using Statements
